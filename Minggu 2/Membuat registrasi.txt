@@ -1,1 +1,3 @@
 on progress registrasi
+
+registrasi selesai
